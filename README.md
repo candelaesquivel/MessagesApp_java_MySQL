@@ -1,2 +1,6 @@
 # backend_java_MySQL
-# CRUD application made with Java and Mysql
+
+## -Know and understand data persistence
+## -Create databases and generate connection ( Java + MySQL
+## -Generate CRUD operations
+## -Mastering persistence in rest APIs
